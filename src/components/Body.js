@@ -1,5 +1,5 @@
-import { useEffect, useRef } from 'react';
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import React, { useEffect, useRef } from 'react';
+import { FaGithub, FaLinkedin, FaPython, FaReact, FaNodeJs, FaAws, FaDocker, FaDatabase } from "react-icons/fa";
 import Avatar from '../assets/cat.png';
 
 const Body = () => {
@@ -9,6 +9,7 @@ const Body = () => {
     const canvas = canvasRef.current;
     const ctx = canvas.getContext('2d');
 
+    canvas.id = 'bubblesCanvas';
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
 
@@ -73,16 +74,24 @@ const Body = () => {
       <div className="body-container">
         <div className="body-profile">
           <img className="body-img" alt='avatar' src={Avatar} />
-
           <div className="body-content">
             <div className="body-headline">Cat Hu</div>
             <div className="body-text">Data Centered Software Developer</div>
             <div className="body-text">Big Data Devops Python Based Machine Learning</div>
+
+            <div className="skills-icons">
+              <FaPython title="Python" />
+              <FaReact title="React" />
+              <FaNodeJs title="Node.js" />
+              <FaAws title="AWS" />
+              <FaDocker title="Docker" />
+              <FaDatabase title="Databases" />
+            </div>
           </div>
 
-          <div className="body-icons">  
-            <a href="https://github.com/emuacat" target="_blank" rel="noreferrer" className="icon-link"><i><FaGithub /></i> </a>
-            <a href="https://www.linkedin.com/in/cat-jieting-hu-085b11280/" target="_blank" rel="noreferrer" className="icon-link"><i><FaLinkedin /></i></a>
+          <div className="body-icons">
+            <a href="https://github.com/emuacat" target="_blank" rel="noreferrer" className="icon-link"><FaGithub /></a>
+            <a href="https://www.linkedin.com/in/cat-jieting-hu-085b11280/" target="_blank" rel="noreferrer" className="icon-link"><FaLinkedin /></a>
           </div>
         </div>
       </div>

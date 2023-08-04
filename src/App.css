@@ -173,6 +173,18 @@ a, a:active, a:hover {
   color: lightgray;
   transform: scale(1.1);
 }
+.skills-icons {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  font-size: 3.2rem; /* Adjust the font size for the skills icons */
+  margin-top: 10px; /* Spacing above the skills icons */
+}
+
+.skills-icons > * {
+  margin-right: 10px; /* Spacing between the skills icons */
+}
+
 /* End Body Section */ 
 /* About Section  */
 .about {
