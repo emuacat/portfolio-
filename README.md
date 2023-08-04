@@ -1,10 +1,8 @@
 # Portfolio README
 
-![forthebadge](https://forthebadge.com/images/badges/made-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
-![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo?style=social)
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
 
 ## Features
 
