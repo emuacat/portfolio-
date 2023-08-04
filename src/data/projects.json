@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Collaborative Filtering Recommendation System Tencent Movies",
+        "description" : "n this project, I create a recommendation system using collaborative filtering. Utilizing Jupyter Notebook, a web-based integrated development environment for Python, and various Python libraries, the system recommends movies based on user similarity. The dataset, containing sufficient ratings from users to make quality recommendations, is available in the same directory as the Jupyter file.",
+        "link" : "https://github.com/emuacat/Collaborative-Filtering-Recommendation-System/"
+    },
+    {
+        "name" : "CI/CD Pipeline for Health Management System",
+        "description" : "The Health Management System (HMS) project involved the creation of a robust CI/CD pipeline to ensure seamless integration, continuous testing, and automated deployment. Utilizing AWS CodeBuild and CodeDeploy, the pipeline was designed to foster efficiency, reliability, and security in the development lifecycle.",
+        "link" : "https://github.com/emuacat/Hospital-information-system/"
+    },
+    {
+        "name" : "The Systematic Assessment of Public Metadata on Various Diseases",
+        "description" : "The core of the project lay in the in-depth analysis of the metadata. Leveraging powerful programming languages and tools such as Python, coupled with advanced libraries like Pandas, SciPy, and scikit-learn, the team conducted thorough examinations and explorations of the datasets. This methodological approach allowed for a rich and nuanced understanding of the underlying patterns and insights, reinforcing the project's overall objectives and outcomes.",
+        "link" : "https://www.biorxiv.org/content/10.1101/2021.11.22.469640v2/"
+    },
+    {
+        "name" : "Benchmarking and Performance Analysis of HLA Callers",
+        "description" : "The benchmarking and performance analysis of HLA callers in this project was a comprehensive, multi-faceted task, aimed at providing an accurate and detailed comparison of these crucial algorithms in the context of immunology.The project kicked off with the utilization of Python for the vital task of data preprocessing and algorithm development for HLA callers. This provided a uniform and clean dataset, primed for rigorous analysis, and ensured that the developed algorithms were optimized to handle the specific characteristics of the HLA data.",
+        "link" : "https://github.com/emuacat/"
+    },
+    {
+        "name" : "Ancestrial Diversity Analysis",
+        "description" : "A significant investigation into the TCR (T Cell Receptor) sequencing data was carried out. The study aimed to delve into the ancestral diversity present within T cell receptors, a vital aspect of understanding immune responses across different populations.The project began with the collection and preprocessing of TCR sequencing data from an extensive source of 150 published studies, encompassing data from a remarkable 5000 individuals. Such a comprehensive dataset allowed for a robust and in-depth exploration of the subject matter.",
+        "link" : "https://pubmed.ncbi.nlm.nih.gov/34644550/"
+    }
+]
