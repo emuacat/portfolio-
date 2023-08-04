@@ -76,10 +76,11 @@ const Body = () => {
 
           <div className="body-content">
             <div className="body-headline">Cat Hu</div>
-            <div className="body-text">Software Engineer</div>
+            <div className="body-text">Data Centered Software Developer</div>
+            <div className="body-text">Big Data Devops Python Based Machine Learning</div>
           </div>
 
-          <div className="body-icons">
+          <div className="body-icons">  
             <a href="https://github.com/emuacat" target="_blank" rel="noreferrer" className="icon-link"><i><FaGithub /></i> </a>
             <a href="https://www.linkedin.com/in/cat-jieting-hu-085b11280/" target="_blank" rel="noreferrer" className="icon-link"><i><FaLinkedin /></i></a>
           </div>
