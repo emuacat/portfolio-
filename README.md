@@ -1,6 +1,6 @@
 # Portfolio 
 <a href="https://emuacat.github.io/portfolio-/">
-  <img src="https://github.com/emuacat/portfolio-/blob/main/src/assets/sa.gif" width="200">
+  <img src="https://github.com/emuacat/portfolio-/blob/main/src/assets/sa.gif" width="100">
 </a>
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
