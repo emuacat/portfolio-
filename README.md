@@ -1,5 +1,5 @@
 # Portfolio README
-[![Visit My Website](https://github.com/emuacat/portfolio-/blob/main/src/assets/projectImage2.png)](https://emuacat.github.io/portfolio-/)
+[![Visit My Website](https://github.com/emuacat/portfolio-/blob/main/src/assets/giphy.gif)](https://emuacat.github.io/portfolio-/)
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 ![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
