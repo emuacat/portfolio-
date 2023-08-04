@@ -26,6 +26,10 @@
 ### Ancestor Diversity Analysis Project
 🧬 **In-depth Analysis** - Analyzed diverse ancestries using cutting-edge techniques.
 
+### Developed and Tested HLA Callers
+💻  **Utilized Python and Cloud Technology** - Engaged in the development and testing of HLA callers using cutting-edge Python frameworks and cloud technologies.
+- **Algorithm Development**: Crafted sophisticated algorithms for HLA calling, using Python's robust libraries.
+
 Feel free to explore the projects and reach out if you have any questions!
 
 ---
