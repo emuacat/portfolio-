@@ -32,6 +32,9 @@
 ### Developed and Tested HLA Callers
 💻  **Utilized Python and Cloud Technology** - Engaged in the development and testing of HLA callers using cutting-edge Python frameworks and cloud technologies.
 
+### Front-End-learning-Website-Using-Django
+🌐 Django Web Development - Created an interactive and comprehensive learning platform using Django for front-end web development education.
+
 
 Feel free to explore the projects and reach out if you have any questions!
 
