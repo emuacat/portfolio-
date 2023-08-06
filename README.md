@@ -1,7 +1,6 @@
-# Portfolio 
-<a href="https://emuacat.github.io/portfolio-/">
-  <img src="https://github.com/emuacat/portfolio-/blob/main/src/assets/sa.gif" width="100">
-</a>
+# Portfolio
+
+[![Portfolio Website](https://github.com/emuacat/portfolio-/blob/main/src/assets/sa.gif)](https://emuacat.github.io/portfolio-/)
 
 ![Made with JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg)
 ![Uses JS](https://forthebadge.com/images/badges/uses-js.svg)
