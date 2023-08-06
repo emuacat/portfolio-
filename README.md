@@ -1,6 +1,3 @@
-# Portfolio README
-[![Visit My Website](https://github.com/emuacat/portfolio-/blob/main/src/assets/giphy.gif)](https://emuacat.github.io/portfolio-/)
-
 # Portfolio 
 <a href="https://emuacat.github.io/portfolio-/">
   <img src="https://github.com/emuacat/portfolio-/blob/main/src/assets/sa.gif" width="200">
