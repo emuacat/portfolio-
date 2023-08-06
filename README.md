@@ -1,10 +1,12 @@
+# Portfolio README
+[![Visit My Website](https://github.com/emuacat/portfolio-/blob/main/src/assets/giphy.gif)](https://emuacat.github.io/portfolio-/)
 # Portfolio 
+<a href="https://emuacat.github.io/portfolio-/">
+  <img src="https://github.com/emuacat/portfolio-/blob/main/src/assets/sa.gif" width="200">
+</a>
 
-[![Portfolio Website](https://github.com/emuacat/portfolio-/blob/main/src/assets/sa.gif | width=100)](https://emuacat.github.io/portfolio-/)
-
-Made with JavaScript ![Made with JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg)
-Uses JS ![Uses JS](https://forthebadge.com/images/badges/uses-js.svg)
-Uses HTML ![Uses HTML](https://forthebadge.com/images/badges/uses-html.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
 
 
 
