@@ -3,9 +3,10 @@
   <img src="https://github.com/emuacat/portfolio-/blob/main/src/assets/sa.gif" width="100">
 </a>
 
-![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
-![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
-![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
+![Made with JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![Uses JS](https://forthebadge.com/images/badges/uses-js.svg)
+![Uses HTML](https://forthebadge.com/images/badges/uses-html.svg)
+
 
 ## Features
 
