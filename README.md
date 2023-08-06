@@ -3,11 +3,6 @@
   <img src="https://github.com/emuacat/portfolio-/blob/main/src/assets/sa.gif" width="200">
 </a>
 
-![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
-![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
-
-
-
 
 ## Features
 
